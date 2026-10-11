@@ -1,0 +1,6 @@
+2026-10-09 11:56:55 - INFO - application process started
+2026-10-09 11:56:55 - WARNING - 5 records has missing email addresses
+2026-10-09 11:56:55 - ERROR - Failed to connect to the database
+2026-10-09 11:58:28 - INFO - application process started
+2026-10-09 11:58:28 - WARNING - 5 records has missing email addresses
+2026-10-09 11:58:28 - ERROR - Failed to connect to the database

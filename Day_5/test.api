@@ -1,0 +1,14 @@
+
+import pytest
+import requests
+
+@py.test.fixture
+def get_url():
+    URL = "https://www.google.com"
+    r = reuqests.get(URL)
+    code = r.status_code
+    return code
+
+def test_get_operation(get_url):
+assert get_url == 200
+
